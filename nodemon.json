@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_ALTAS_PW":"e4qYtTe3je3C4fBp",
+        "JWT_KEY":"secret_this_should_be_longer"
+    }
+}
